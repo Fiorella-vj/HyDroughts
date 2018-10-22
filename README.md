@@ -1,0 +1,2 @@
+# HyDroughts
+Hydrologycal droughts analysis
